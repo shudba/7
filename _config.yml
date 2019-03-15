@@ -7,7 +7,7 @@
 
 # Site settings
 title: Gylt
-brief-intro: 不努力肯定输
+brief-intro: 成长日记
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gylt37.github.io" # the base hostname & protocol for your site
 
